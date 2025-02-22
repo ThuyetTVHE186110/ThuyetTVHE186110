@@ -13,7 +13,9 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
-
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ2OGY0aHF2Y2hyNW1pY3lqNnU0ZnJra3JwYmdnNjE3MnZxbGo1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" width="550" height="300"/>
+</div>
 ---
 ### :woman_technologist: About Me : 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
